@@ -1,2 +1,4 @@
 # fatal-demo
-This is my first Git Repository.Author-Ishtiyaque Ahmad
+This is my first Git Repository.
+<br>
+Author-Ishtiyaque Ahmad
